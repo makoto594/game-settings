@@ -1,1 +1,5 @@
-
+{
+  "status": "connected",
+  "message": "GitHubのdata.jsonとの接続完了！",
+  "version": 1
+}
